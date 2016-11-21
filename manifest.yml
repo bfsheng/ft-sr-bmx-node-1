@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: ft-sr-bmx-node-1
+  host: ft-sr-bmx-node-1
+  disk_quota: 1024M
